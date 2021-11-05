@@ -1,0 +1,19 @@
+.CreateStoryRoute {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.CreateStoryRoute .noButton {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 24px;
+}
+
+.CreateStoryRoute label {
+  margin: 6px;
+}
+.CreateStoryRoute input {
+  margin: 6px;
+}
